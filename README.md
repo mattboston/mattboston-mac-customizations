@@ -150,3 +150,4 @@ Will organize later:
 * Xmarks for Safari
 * You Need A Budget
 * Zoc
+* sudo dscl . -change /Users/root UserShell /bin/sh /bin/bash
